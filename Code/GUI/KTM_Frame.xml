@@ -14,7 +14,7 @@
 	
 	<!-- The base font -->
 	<Font name="KLHTM_FontDefault" inherits="GameFontNormal" virtual="true">
-		<Color r="255" g="250" b="250"/>
+		<Color r="1.0" g="1.0" b="1.0"/>
 	</Font>
 	
 	<!-- Used by the "name" data strings -->
@@ -28,12 +28,12 @@
 	
 	<!-- Used by column headers -->
 	<Font name="KLHTM_FontYellowRight" inherits="KLHTM_FontRight" virtual="true">
-		<Color r="255" g="250" b="250"/>
+		<Color r="1.0" g="0.82" b="0"/>
 	</Font>
 	
 	<!-- Used by the "name" column headers -->
 	<Font name="KLHTM_FontYellowLeft" inherits="KLHTM_FontLeft" virtual="true">
-		<Color r="255" g="250" b="250"/>
+		<Color r="1.0" g="0.82" b="0"/>
 	</Font>
 	
 	
@@ -328,7 +328,7 @@
 									<Offset x="1" y="0"/>
 								</Anchor>
 							</Anchors>
-							<Color r="139" g="137" b="137" a="0"/>
+							<Color r="1.0" g="1.0" b="1.0" a="0"/>
 						</Texture>
 					</Layer>
 				</Layers>
@@ -809,7 +809,7 @@
 												<Anchor point="LEFT"/>
 												<Anchor point="RIGHT"/>
 											</Anchors>
-											<Color r="255" g="250" b="250"/>
+											<Color r="1" g="1" b="1"/>
 										</FontString>
 									</Layer>
 								</Layers>
