@@ -5,7 +5,6 @@
 ## Title-zhCN:|CFFEE7600[团队]|RKLHT仇恨监视
 ## Notes-zhCN:|CFFEE7600KLHThreatMeter|R|NKTM仇恨监视。|N命令：/ktm
 ## Notes-ruRU: Измеритель угрозы
-## X-Repple: 团队
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
 ## Version: 17.40.250
