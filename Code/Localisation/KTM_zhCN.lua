@@ -20,8 +20,8 @@ klhtm.string.data["zhCN"] =
 		["revenge"] = "复仇",
 		["shieldbash"] = "盾击",
 		["sunder"] = "破甲攻击",
-		["thunderclap"] = "Tunder Clap",
-		["demoralizingshout"] = "Demoralizing Shout",
+		["thunderclap"] = "雷霆一击",
+		["demoralizingshout"] = "挫志怒吼",
 		["feint"] = "佯攻",
 		["cower"] = "畏缩",
 		["taunt"] = "嘲讽",
@@ -159,24 +159,24 @@ klhtm.string.data["zhCN"] =
 	{
 		["speech"] = 
 		{
-			["onyxiaphase1"] = "How fortuitous. Usually, I must leave my lair in order to feed.",
-			["onyxiaphase2"] = "This meaningless exertion bores me. I'll incinerate you all from above!",
-			["razorphase2"] = "在宝珠的控制力消失之前逃走。",
-			["onyxiaphase3"] = "看起來需要再給你一次教训",
-			["thekalphase2"] = "给我愤怒的力量吧",
-			["rajaxxfinal"] = "厚颜无耻的笨蛋！我要亲手杀了你！",
-			["azuregosport"] = "来吧，小子。面对我！",
-			["nefphase1"] = "Well done, my minions. The mortals' courage begins to wane! Now, let's see how they contend with the true Lord of Blackrock Spire!",
-			["nefphase2"] = "燃烧吧！你这个不幸的人！燃烧吧！",
-			["razargor1"] = "I'm free! That device shall never torment me again!",
-			["broodlord1"] = "None of your kind should be here",
+			["onyxiaphase1"] = "真是走运。通常我必须离开窝才能找到食物。",
+			["onyxiaphase2"] = "这毫无意义的行动让我很厌烦。我会从上空把你们都烧成灰！",
+			["razorphase2"] = "在宝珠的控制力消失的瞬间，%s逃走了。",
+			["onyxiaphase3"] = "看起来需要再给你一次教训，凡人！",
+			["thekalphase2"] = "让我感受你的愤怒吧！",
+			["rajaxxfinal"] = "无礼的蠢货！我会亲自要了你们的命！",
+			["azuregosport"] = "来吧，小家伙们。面对我！",
+			["nefphase1"] = "干得好，我的手下。凡人的勇气开始消退了！现在，让我们看看他们如何应对黑石塔的真正主人的力量！！！",
+			["nefphase2"] = "燃烧吧！你们这些悲惨的家伙！燃烧吧！",
+			["razargor1"] = "我自由了！那东西再也不能折磨我了！",
+			["broodlord1"] = "你们这种生物不能进来！",
 			["thad1"] = "吃你的骨头",
 			["thad2"] = "打断你!",
-			["thad3"] = "杀!",
-			["noth1"] = "死吧，侵入者！",
-			["noth2"] = "荣耀归主！",
-			["noth3"] = "你的生命被剥夺了！",
-			["ktphase2"] = "祈求宽恕！",
+			["thad3"] = "杀！",
+			["noth1"] = "死吧，入侵者！",
+			["noth2"] = "荣耀归于我主！",
+			["noth3"] = "我要没收你的生命！",
+			["ktphase2"] = "祈祷我的慈悲吧！",
 		},
 		-- Some of these are unused. Also, if none is defined in your localisation, they won't be used,
 		-- so don't worry if you don't implement it.
@@ -286,9 +286,9 @@ klhtm.string.data["zhCN"] =
 				["raid"] = "显示团队仇恨列表",
 				["pin"] = "防止窗口被移动",
 				["unpin"] = "让窗口被移动",
-				["opt"] = "配置仇恨插件相关信息",
-				["targ"] = "置你当前选定目标为首要目标,如果你未选择任何目标,该值将会清零.必须是团长或团队副手才能使用",
-				["clear"] = "重置所有人的仇恨为零,只有团长或团队副手才能使用",
+				["opt"] = "仇恨插件设置",
+				["targ"] = "将当前目标设定为您的主要目标。如果你没有目标，主要目标将被清除。您必须是团长或具有助理权限。",
+				["clear"] = "将所有玩家的威胁值设为零。您必须是团长或具有助理权限。",
 			},
 			["stringshort"] = {
 				-- the tooltip titles for titlebar strings
@@ -296,7 +296,7 @@ klhtm.string.data["zhCN"] =
 				["tdef"] = "仇恨差值",
 				["rank"] = "仇恨排名",
 				["pc"] = "% 百分比",
-				["sunder"] = "撕裂",
+				["sunder"] = "破甲",
 			},
 			["stringlong"] = {
 				-- the tooltip descriptions for titlebar strings
@@ -339,7 +339,7 @@ klhtm.string.data["zhCN"] =
 				["dam"] = "伤害",
 				["threat"] = "仇恨",
 				["pc"] = "% 百分比",
-				["sunder"] = "撕裂",
+				["sunder"] = "破甲",
 			},
 			["options"] = {
 				-- miscelaneous option names
@@ -357,7 +357,7 @@ klhtm.string.data["zhCN"] =
 				["threat"] = "最小仇恨", -- dodge...
 				["rank"] = "仇恨值排名",
 				["pc"] = "% 百分比",
-				["sunder"] = "撕裂",
+				["sunder"] = "破甲",
 				["tdef"] = "仇恨值差异",
 			},
 			["headers"] = {

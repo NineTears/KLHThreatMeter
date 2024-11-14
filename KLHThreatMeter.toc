@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Title: KLHThreatMeter |cff1fff1fLaYt|r edition
-## Author: Kenco@Perenolde, edited by Plask, eduted by LaYt
+## Author: Kenco@Perenolde, Plask, LaYt, Wind, Sunelegy
 ## Notes: A Threat Meter with sunders counter
 ## Title-zhCN:|CFFEE7600[团队]|RKLHT仇恨监视
 ## Notes-zhCN:|CFFEE7600KLHThreatMeter|R|NKTM仇恨监视。|N命令：/ktm
