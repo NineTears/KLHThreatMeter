@@ -231,7 +231,7 @@ klhtm.string.data["zhCN"] =
 				["name"] = "名字",
 				["threat"] = "仇恨值",
 				["pc"] = "最大值%",			-- your threat as a percentage of the #1 player's threat
-				["sunder"] = "Su",			-- your threat as a percentage of the #1 player's threat
+				["sunder"] = "破甲",			-- your threat as a percentage of the #1 player's threat
 			},
 			["stringshort"] = {
 				-- tooltip titles for the bottom bar strings
