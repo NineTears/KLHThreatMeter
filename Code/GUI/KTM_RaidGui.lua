@@ -61,7 +61,7 @@ function KLHTM_CreateRaidTable()
 			["sunder"] = {
 				["frame"] = KLHTM_RaidFrameHeaderSunder,
 				["text"] = KLHTM_RaidFrameHeaderSunderText,
-				["width"] = 10,
+				["width"] = 14,
 				["colour"] = {["r"] = 1.0, ["g"] = 1.0, ["b"] = 1.0},
 				["vis"] = function() return options.raid.columnVis.sunder end,
 			},

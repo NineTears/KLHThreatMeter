@@ -13,7 +13,7 @@
 <Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\FrameXML\UI.xsd">
 	
 	<!-- The base font -->
-	<Font name="KLHTM_FontDefault" inherits="GameFontNormal" virtual="true">
+	<Font name="KLHTM_FontDefault" inherits="GameFontNormalSmall" virtual="true">
 		<Color r="1.0" g="1.0" b="1.0"/>
 	</Font>
 	
