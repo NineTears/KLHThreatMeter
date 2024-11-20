@@ -290,6 +290,14 @@
 		<Size>
 			<AbsDimension x="1" y="1"/>
 		</Size>
+		<!-- 让窗口默认显示在右下角，不遮挡其他插件 -->
+		<Anchors>
+			<Anchor point="BOTTOMRIGHT" relativeTo="UIParent" relativePoint="BOTTOMRIGHT">
+				<Offset>
+					<AbsDimension x="0" y="150"/>
+				</Offset>
+			</Anchor>
+		</Anchors>
 		<Backdrop bgFile="Interface\Tooltips\UI-Tooltip-Background" edgeFile="Interface\Tooltips\UI-Tooltip-Border" tile="true">
 			<EdgeSize>
 			    <AbsValue val="16"/>
